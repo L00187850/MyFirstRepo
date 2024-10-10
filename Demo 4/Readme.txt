@@ -1,1 +1,0 @@
-This script adds a variable called "Filepath" and "FolderName" and runs a calculation (multiply) at the end before pausing.

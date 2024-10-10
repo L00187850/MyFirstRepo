@@ -1,1 +1,0 @@
-This script shows the current date and time

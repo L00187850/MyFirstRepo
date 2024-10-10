@@ -1,2 +1,0 @@
-:: This script will take a log of files being copied. It will then delete that log and create two additional files.
-:: It then copies it to C:\windows (ospath) and logs any changes in a new file path C:\Users\student\Scripts from DOS\MyBackup.log

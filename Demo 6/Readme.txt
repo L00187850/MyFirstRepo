@@ -1,1 +1,0 @@
-This script will prompt the user for values while the bat file is running. It will also ask for the persons date of birth and country of birth.

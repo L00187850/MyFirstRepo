@@ -1,1 +1,0 @@
-This script will pause and ask for user input.
