@@ -1,0 +1,2 @@
+:: This script will not just show what files are in a directory, it also displays and counts the files in the directory as well as also displaying and counting the number of directories in C:\users\Student.
+:: It then take these results and puts them into a log file found in "C:\Users\student\Scripts from DOS" titled "MyResults.log"

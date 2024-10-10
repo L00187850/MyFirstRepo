@@ -1,0 +1,1 @@
+This bat file uses both variables and arguments to allow the user to input their name, age and their country.
