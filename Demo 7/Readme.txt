@@ -1,0 +1,1 @@
+This script will attempt to find a file in C:\windows and also tell you if it doesn't exist. It will also loop back to the beginning of the script and ask for another file.
